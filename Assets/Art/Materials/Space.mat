@@ -31,7 +31,7 @@ Material:
       data:
         first:
           name: _Darkness
-        second: .300000012
+        second: .5
     m_Colors:
       data:
         first:

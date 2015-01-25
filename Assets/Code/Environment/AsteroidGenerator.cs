@@ -29,7 +29,7 @@ public class AsteroidGenerator
 										Mathf.Sin( (((i/(float)VERTEX_COUNT) * 360f) + Random.Range(-wobbleRange, wobbleRange)) * Mathf.Deg2Rad ),
 										0f);
 
-			float noise = Random.Range(1f, 1.2f);
+			float noise = Random.Range(1f, 1.1f);
 
 			vertices[i] = (vertices[i]-Vector3.zero) * noise;
 			vertices[i] = Vector3.Scale(vertices[i], scale);

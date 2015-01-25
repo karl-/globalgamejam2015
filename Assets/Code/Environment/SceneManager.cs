@@ -30,9 +30,9 @@ public class SceneManager : MonoBehaviour
 		bottomLeftGrid = Grid.GridPosition(bounds.center - bounds.extents);
 		topRightGrid = Grid.GridPosition(bounds.center + bounds.extents);
 
-		for(int y = bottomLeftGrid.y-1; y <= topRightGrid.y+1; y++)
+		for(int y = bottomLeftGrid.y-2; y <= topRightGrid.y+2; y++)
 		{
-			for(int x = bottomLeftGrid.x-1; x <= topRightGrid.x+1; x++)
+			for(int x = bottomLeftGrid.x-2; x <= topRightGrid.x+2; x++)
 			{
 				visible.Add( new GridUnit(x,y) );
 			}

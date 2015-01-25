@@ -6,7 +6,7 @@ S.F.DATE: 2013:14:01 ... A little less than a month into the abyss.  Systems nom
 ===
 S.F.DATE: 2014:08:15 ... Nearly one year now - the planet at GSC(493, 1200) seems to have had an effect on our life support systems.
 ===
-S.F.DATE: 2014:09:03 ... Life support has been on critical for two weeks; unclear how much time..
+S.F.DATE: 2014:09:03 ... Life support has been on critical for two weeks; unclear how much time left.
 ===
 S.F.DATE: 2014:09:07 ... Oxygen supplies depleted, yet somehow we live.
 ===
